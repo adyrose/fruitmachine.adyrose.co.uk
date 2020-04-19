@@ -1,0 +1,12 @@
+* {
+  padding: 0px;
+  margin: 0px; }
+
+.preload * {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important; }
+
+
+/*# sourceMappingURL=global.app.css.map*/
